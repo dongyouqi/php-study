@@ -2,6 +2,6 @@
 study php and understand the knowledge
 
 
-## 需要学习的知道点
+## 需要学习的知识点
 
 * rabbitmq
